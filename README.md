@@ -41,7 +41,7 @@ This can be useful for surveillance applications where you only care about motio
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<vidyasagar2405>/OpenCV-Static-Motion-Detection-Project.git
+   git clone https://github.com/Shivaxp/Motion-Detection-Using-Open-cv.git
    cd OpenCV-Static-Motion-Detection-Project
    ```
 
